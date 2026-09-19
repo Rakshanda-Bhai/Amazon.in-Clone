@@ -20,9 +20,9 @@ A simple Amazon-inspired e-commerce homepage built using **HTML and CSS**.
 https://rakshanda-bhai.github.io/Amazon.in-Clone/
 
 ## 📸 Preview
-1.png
-2.png
-3.png
+![Screenshot 1](1.png)
+![Screenshot 2](2.png)
+![Screenshot 3](3.png)
 
 ## 👩‍💻 Author
 **Rakshanda Bhai**
